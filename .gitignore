@@ -1,0 +1,10 @@
+# Build output
+tetris
+
+# macOS artifacts
+.DS_Store
+*.dSYM/
+
+# Editor files
+.vscode/
+*.o
