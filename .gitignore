@@ -1,5 +1,6 @@
 # Build output
 tetris
+src/run1
 
 # macOS artifacts
 .DS_Store
